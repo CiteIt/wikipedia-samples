@@ -78,3 +78,15 @@ I'm interested in hearing your feedback.
 
 ### Read more about Sample Code:
   * https://pages.citeit.net/sample-code/examples.html
+  
+
+## Generating Contextual JSON files
+To view the contextual citations:
+  * upload the articles to a website you control.
+  * generate the contextual JSON files by instructing the webservice to index your website.
+  
+  
+Right now the [https://pages.citeit.net/sample-code/|webservice] is alpha-status code and not optimized for performace.
+Start by calling the service for short articles like JFK, RGB, or Pride and Prejudice so that the request doesn't take too long.
+
+(The Donald Trump page is too long for running on the public webservice but can be run if you setup the Python code on your own computer).
