@@ -71,7 +71,10 @@ Here is a quote from the Ruth Bader Ginsburg article:
 
 
 ### Wiki Markup
-You can read more about proposed [https://meta.wikimedia.org/wiki/User:Timlangeman/sandbox#Proposed_Syntax_for_MediaWiki_contextual_citations](wiki markup).  I'm interested in hearing your feedback.
+You can read more about proposed wiki syntax:
+https://meta.wikimedia.org/wiki/User:Timlangeman/sandbox#Proposed_Syntax_for_MediaWiki_contextual_citations.  
+
+I'm interested in hearing your feedback.
 
 ### Read more about Sample Code:
   * https://pages.citeit.net/sample-code/examples.html
