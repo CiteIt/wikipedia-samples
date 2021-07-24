@@ -1,0 +1,41 @@
+{
+  "name": "link-to-text-fragment",
+  "version": "1.1.11",
+  "description": "Browser extension that allows for linking to arbitrary text fragments.",
+  "scripts": {
+    "lint": "npx prettier --write . && npx eslint ./*.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoogleChromeLabs/link-to-text-fragment.git"
+  },
+  "keywords": [
+    "text fragment",
+    "link to text fragment",
+    "scroll to text fragment"
+  ],
+  "author": "Thomas Steiner (https://blog.tomayac.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/GoogleChromeLabs/link-to-text-fragment/issues"
+  },
+  "homepage": "https://github.com/GoogleChromeLabs/link-to-text-fragment#readme",
+  "devDependencies": {
+    "eslint": "^7.3.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "eslintConfig": {
+    "env": {
+      "es6": true,
+      "browser": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 2020,
+      "sourceType": "module"
+    },
+    "extends": [
+      "eslint:recommended",
+      "google"
+    ]
+  }
+}

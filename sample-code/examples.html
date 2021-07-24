@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head >
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>CiteIt.net Code Examples</title>
+
+  <!-- CiteIt Javascript Dependencies
+      - jQuery: manipulate Dom: 
+      - query api.CiteIt.net
+      - download JSON to hidden citeit_container div
+      - add arrows and popup links to q tags and blockquotes
+
+  --- 1) jQuery -->
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js"   
+	integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="   
+	crossorigin="anonymous">
+  </script>
+
+  <!-- 2) jQuery Migrate: Used to migrate jQuery: https://github.com/jquery/jquery-migrate -->
+  <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js" 
+	integrity="sha256-SOuLUArmo4YXtXONKz+uxIGSKneCJG4x0nVcA0pFzV0=" 
+	crossorigin="anonymous">
+  </script>
+
+  <!-- 3) Generate q-tag Popup -->
+  <script   
+	src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"   
+	integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="   
+	crossorigin="anonymous">
+  </script> 
+
+  <!-- 4) Calculate JSON Hash values using sha256 library --->
+  <script src='lib/forge-sha256/build/forge-sha256.min.js' defer></script>
+
+  <!-- 5) jsVideoUrlParser: Detect Domain: Determine if an Embed code can be use: YouTube, Vimeo, Soundcloud -->
+  <script src='lib/jsVideoUrlParser/dist/jsVideoUrlParser.min.js' defer></script>
+
+  <!--CSS Styles: CiteIt & JQuery Popup Window -->
+  <link rel='stylesheet' id='wp-bigfoot-public-css'  href='https://pages.citeit.net/wp-content/plugins/CiteIt.net/lib/jquery-ui-1.12.1/jquery-ui.min.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='wp-bigfoot-public-css'  href='css/quote-context-style.css' type='text/css' media='all' />
+  <link rel='stylesheet' id='wp-bigfoot-public-css'  href='css/sample.css' type='text/css' media='all' />
+
+  <!-- 6) Main CiteIt Javascript Code: Download JSON & Create Popup windows and Expanding Arrows  -->
+  <script src='js/versions/0.4/CiteIt-quote-context.js' defer></script>
+
+
+  <link rel='stylesheet' id='minimum-google-fonts-css'  href='//fonts.googleapis.com/css?family=Roboto%3A300%2C400%7CRoboto+Slab%3A300%2C400&#038;ver=3.0.1' type='text/css' media='all' />
+
+
+</head>
+<body>
+
+<div class="wrap">
+	<div class="title-area">
+	<h1 class="site-title" itemprop="headline">
+		<a href="https://www.citeit.net/" title="CiteIt.net">
+		<div class="logo">	
+			<div class="quote_arrows">▲</div>
+			<span class="custom-title">CiteIt.net</span>
+			<div class="quote_arrows">▼</div>
+		</div>
+		</a>
+	</h1>
+	</div>
+</div>
+
+<div class="site-tagline">
+	<h2>a higher standard of citation</h2>
+</div>
+
+<ul id="top_navigation_menu" class="menu genesis-nav-menu menu-primary"><li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page  page_item page-item-18 current_page_item menu-item-425"><a href="https://www.citeit.net/" aria-current="page"><span >Home</span></a></li>
+<li id="menu-item-1072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1072"><a href="https://demo.citeit.net"><span >demo</span></a></li>
+
+<li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8 current_page_item menu-item-428"><a href="https://www.citeit.net/code/" aria-current="page"><span >code</span></a></li>
+
+<li id="menu-item-983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-983"><a href="https://www.citeit.net/volunteer/"><span >Volunteer</span></a></li>
+<li id="menu-item-994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-994"><a href="https://pages.citeit.net/"><span >Blog</span></a></li>
+<li id="menu-item-427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427"><a href="https://www.citeit.net/about/"><span >about</span></a></li>
+</ul>
+
+<div class="wrap">
+
+<h3 class="breadcrumb"><a href="https://pages.citeit.net/code/">Code</a> &gt; <a href="https://pages.citeit.net/sample-code/">Sample Code</a> : Examples</h3>
+
+<!---------------------- Begin: Main Content ----------------------->
+
+
+
+<div id="instructions">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_xkGHbOFW18" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="examples-video-outline.txt">View outline of video script</a>
+
+
+<h4>How to generate the citation context for this example:</h4>
+<ul>
+  <li>Upload this file to a public website</li>
+  <li>Submit this page's URL using the <a href="https://pages.citeit.net/sample-code/">Submission Page</a></li>
+  <li>This will generate <a href="https://read.citeit.net/quote/sha256/0.4/41/4174a04d8a3fc6b30596b940f5264e9a0dfe22cced9070c9cb9c644a17a451da.json">JSON files</a> for each quote.</li>
+  <li>You can view the JSON files for this page in your <a href="https://pages.citeit.net/wp-content/uploads/2020/10/CiteIt-Inspect-Chrome-Developer-mode.png">browser's developer mode</a>.</li>
+</ul>
+</div>
+
+
+<h2>Examples</h2>
+
+<h3>1: Pride &amp; Prejudice</h3>
+<p>CiteIt.net allows inline <b>popup quotations</b> use the &lt;q&gt; tag:</p>
+
+In Chapter 5 of Pride and Prejudice, Elizabeth confesses how Darcy offended her, saying:
+<q cite="https://en.wikisource.org/wiki/Pride_and_Prejudice/Chapter_5" 
+	data-citeit-cited-audio-url="https://en.wikisource.org/wiki/File:Chapter_05_-_Pride_and_Prejudice_-_Jane_Austen.ogg" 
+	data-citeit-cited-audio-start-time="234" data-citeit-cited-title="Pride and Prejudice" data-citeit-cited-author="Jane Austen" 	
+	data-citeit-cited-author-wikipedia-url="https://en.wikipedia.org/wiki/Jane_Austen" 
+	data-citeit-cited-work-wikipedia-url="https://en.wikipedia.org/wiki/Pride_and_Prejudice"
+>I could easily forgive his pride, if he had not mortified mine.</q>
+
+<h3>2: Tyler Cowen interviews David Wolpe</h3>
+In a medium.com article, <a href="https://medium.com/conversations-with-tyler/rabbi-david-wolpe-leaders-religion-israel-identity-7c159c2ed2d">Tyler Cowen commented to David Wolpe</a> about how social media strips away context:
+<blockquote cite="https://medium.com/conversations-with-tyler/rabbi-david-wolpe-leaders-religion-israel-identity-7c159c2ed2d" 
+	data-citeit-cited-audio-url="https://soundcloud.com/conversationswithtyler/rabbi-david-wolpe-on-leadership-religion" 
+	data-citeit-cited-video-url="https://youtu.be/DH0VqlPnzpE?t=1672" 	
+	data-citeit-transcript-url="https://medium.com/conversations-with-tyler/rabbi-david-wolpe-leaders-religion-israel-identity-7c159c2ed2d" 
+	data-citeit-cited-audio-start-time="1672" 
+	data-citeit-cited-title="Rabbi David Wolpe on Leadership, Religion, and Identity (Ep. 19 — Live at Sixth &amp; I)" 
+	data-citeit-cited-series="Conversations with Tyler" 
+	data-citeit-cited-series-url="https://conversationswithtyler.com" 
+	data-citeit-cited-series-youtube="https://www.youtube.com/playlist?list=PLS8aEHTqDvpInY9kslUOOK8Qj_-B91o_W" 
+	data-citeit-cited-authors_names="David Wolpe, Tyler Cowen" 
+	data-citeit-cited-authors_twitter="@RabbiWolpe, @tylercowen" 
+	data-citeit-cited-authors-wikipedia-urls="https://en.wikipedia.org/wiki/David_Wolpe, https://en.wikipedia.org/wiki/Tyler_Cowen">I think that Judaism has the same problem that any <b>thick civilization</b> has in a world in which, as you say, <b>context is stripped away</b>. And not only is context stripped away, but attention to any one thing is canter and less than it used to be. So, for example, a lot of Jewish commentary is based on your recognizing the reference that I make. <b>Who recognizes references anymore?</b> Because people don’t spend years studying books.</blockquote>
+
+<p>You can mark up the quote with <b>html tags</b> such as &lt;ul&gt;, &lt;li&gt;, &lt;b&gt; or any other <b>tag that will not change the text version</b> of the quote when the hmtl is converted to text.</p>
+
+
+<h3>More Examples</h3>
+<ul>
+<li><a href="examples-advanced.html">Advanced Examples</a>: 
+   <ul>
+		<li>Citing YouTube Videos,</li>
+		<li> adding formating to quotes: bold, italics, lists,</li>
+		<li>adding quote meta-data</li>
+   </ul>
+ </li>
+</ul>
+
+
+</div><!--wrap-->
+
+<!---------------------- End: Main Content ----------------------->
+
+<div id="navigation">
+	<a href="./">New Submission</a> | <b>Examples</b> | <a href="https://pages.citeit.net/sample-code/text-version.php">Text-Version</a> | <a href="https://meta.wikimedia.org/wiki/User:Timlangeman/sandbox">Wikipedia Proposal</a> | <a href="https://github.com/CiteIt/citeit-sample-code">GitHub Download</a>
+</div>
+
+  <div id='citeit_container'><!-- CiteIt-quote-context.js injects data returned from lookup in this hidden div --></div>
+  <script>
+	// Call CiteIt.net plugin on all q-tags and blockquotes:
+	$( document ).ready(function() {
+		jQuery('q, blockquote').quoteContext();
+	});
+  </script>
+
+
+</body>
+</html>

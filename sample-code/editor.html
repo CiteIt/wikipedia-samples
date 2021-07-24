@@ -1,0 +1,109 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CiteIt Editor Demo</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://cdn.tiny.cloud/1/scnw5ns1yumqe042c4r7c55bwser40g3f4k1h15lq07aqpmq/tinymce/4/tinymce.min.js" referrerpolicy="origin"></script>
+</head>
+<body>
+
+<h1>CiteIt Demo</h1>
+
+<form method="post">
+  <textarea id="demo_textarea"><p>Here's a cherry-picked quotations from the Jefferson Memorial:</p>
+  <br /><br />
+
+  Nothing is more certainly written in the book of fate than that these people are to be free.
+
+  <ol>
+	<li>The god who gave us life, gave us liberty </li>
+	<li>And can the liberties of a nation .. </li>
+	<li>commerce between master and slave is.. despotism </li>
+	<li>Nothing is more certainly written in the book of fate than that these people are to be free. </li>
+	<li>establish .. the law for educating the common people </li>
+	<li>This it is the business of the state to effect, and on a general plan </li>
+  </ol>
+
+  </textarea>
+
+  <br />
+  <input type="submit" value="Save" />
+</form>
+
+
+
+
+<script>
+tinymce.init({
+  selector: '#demo_textarea',
+  height: 300,
+  toolbar: 'formatselect | bold italic | alignleft aligncenter alignright | bullist numlist | citeit_blockquote | citeit_inline_popup | citeit_q',
+  plugins: [
+    'autolink lists link image anchor textcolor',
+    'code fullscreen',
+    'media table paste code'
+  ],
+  menubar: false,
+  mobile: { 
+    theme: 'mobile' 
+  },
+  content_css: [
+    '//fonts.googleapis.com/css?family=Lato:300,300i,400,400i'
+  ],
+  
+  setup: function (editor) {
+
+
+		editor.addButton('citeit_blockquote', {
+			text: 'CiteIt blockquote',
+             /* image: 'https://pages.citeit.net/wp-content/plugins/CiteIt.net/img/citeit-logo-c-90.png', */
+			icon: false,
+			onclick: function() {
+                editor.windowManager.open( {
+                    title: 'Insert blockquote link',
+                    tooltip: 'Add CiteIt blockquote',
+
+                    body: [{
+                        type: 'textbox',
+                        name: 'cite',
+                        label: 'Quote Source Link'
+                    }],
+                    onsubmit: function( e ) {
+                        editor.insertContent( '<blockquote cite="' + e.data.cite + '">' + editor.selection.getContent({format : 'html'}) + '</blockquote>');
+                    }
+                });
+			}
+		});
+
+		editor.addButton('citeit_q', {
+			text: 'CiteIt inline popup',
+             /* image: 'https://pages.citeit.net/wp-content/plugins/CiteIt.net/img/citeit-logo-c-90.png', */
+			icon: false,
+			onclick: function() {
+                editor.windowManager.open( {
+                    title: 'Insert inline popup',
+                    tooltip: 'Add CiteIt inline popup',
+                    body: [{
+                        type: 'textbox',
+                        name: 'cite',
+                        label: 'Quote Source Link'
+                    }],
+                    onsubmit: function( e ) {
+                        editor.insertContent( '<q cite="' + e.data.cite + '">' + editor.selection.getContent({format : 'html'}) + '</q>');
+                    }
+                });
+			}
+		});
+
+
+  }
+
+});
+</script>
+
+</body>
+</html>
+
+
