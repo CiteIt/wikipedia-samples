@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>2000 MI6 attack - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a92312db-0e65-409a-b4a8-8471875336a7","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"2000_MI6_attack","wgTitle":"2000 MI6 attack","wgCurRevisionId":979017045,"wgRevisionId":979017045,"wgArticleId":42866347,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["EngvarB from November 2017","Use dmy dates from November 2017","Coordinates on Wikidata","2000 in London","Battles and conflicts without fatalities","2000 crimes in the United Kingdom","Real Irish Republican Army actions","Vauxhall","History of the London Borough of Lambeth",
+"Secret Intelligence Service","September 2000 events in the United Kingdom","Attacks by Republicans since the Good Friday Agreement","20th century in the London Borough of Lambeth"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"2000_MI6_attack","wgRelevantArticleId":42866347,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCoordinates":{"lat":51.4873,"lon":-0.1243},"wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,
+"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q16969997"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging",
+"ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="https://en.wikipedia.org/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.toc.styles%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="https://en.wikipedia.org/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="https://en.wikipedia.org/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.9"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="https://en.m.wikipedia.org/wiki/2000_MI6_attack"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;action=edit"/>
+<link rel="apple-touch-icon" href="https://en.wikipedia.org/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="https://en.wikipedia.org/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="https://en.wikipedia.org/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="2000_MI6_attack"/>
+<link rel="dns-prefetch" href="https://login.wikimedia.org/"/>
+<link rel="dns-prefetch" href="https://meta.wikimedia.org/" />
+
+
+  <!-- ############################### Begin: CiteIt Dependencies ##################################
+      - jQuery: manipulate Dom: 
+      - query api.CiteIt.net
+      - download JSON to hidden citeit_container div
+      - add arrows and popup links to q tags and blockquotes
+
+  ------ 1) jQuery -->
+  <script src="https://code.jquery.com/jquery-1.12.4.min.js"   
+	integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="   
+	crossorigin="anonymous">
+  </script>
+
+  <!-- 2) jQuery Migrate: Used to migrate jQuery: https://github.com/jquery/jquery-migrate -->
+  <script src="https://code.jquery.com/jquery-migrate-1.4.1.min.js" 
+	integrity="sha256-SOuLUArmo4YXtXONKz+uxIGSKneCJG4x0nVcA0pFzV0=" 
+	crossorigin="anonymous">
+  </script>
+
+  <!-- 3) Generate q-tag Popup -->
+  <script   
+	src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"   
+	integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="   
+	crossorigin="anonymous">
+  </script>
+
+  <!-- 4) Calculate JSON Hash values using sha256 library --->
+  <script src='https://pages.citeit.net/wp-content/plugins/CiteIt.net/lib/forge-sha256/build/forge-sha256.min.js' defer></script>
+
+
+  <!-- 5) jsVideoUrlParser: Detect Domain: Determine if an Embed code can be use: YouTube, Vimeo, Soundcloud -->
+  <script src='https://pages.citeit.net/wp-content/plugins/CiteIt.net/lib/jsVideoUrlParser/dist/jsVideoUrlParser.min.js' defer></script>
+
+  <!--CSS Styles: CiteIt & JQuery Popup Window -->
+  <link rel='stylesheet' href='https://pages.citeit.net/wp-content/plugins/CiteIt.net/lib/jquery-ui-1.12.1/jquery-ui.min.css' type='text/css' media='all' />
+  <link rel='stylesheet' href='https://pages.citeit.net/sample-code/css/quote-context-style.css' type='text/css' media='all' />
+
+  <link rel='stylesheet' href='https://pages.citeit.net/wp-content/plugins/CiteIt.net/css/citeit-wikipedia.css' type='text/css' media='all' />
+
+
+  <!-- 6) Main CiteIt Javascript Code: Download JSON & Create Popup windows and Expanding Arrows  -->
+  <script src='https://pages.citeit.net/wp-content/plugins/CiteIt.net/js/versions/0.4/CiteIt-quote-context.js'> </script>
+
+  <!-- ############################### End: CiteIt.net Dependencies #######################################-->
+
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-2000_MI6_attack rootpage-2000_MI6_attack skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">2000 MI6 attack</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+
+<div class="highlight">
+<ul><li><a href="https://www.citeit.net/">CiteIt.net home</a> | <a href="https://pages.citeit.net/wordpress-plugin/">WordPress Plugin</a> | <a href="https://pages.citeit.net/wikipedia/">Wikipedia</a> |  <a href="https://demo.citeit.net/">Demo</a> | <a href="https://www.citeit.net/code/">Code</a> | <a href="https://www.citeit.net/code/?tab=volunteer">Volunteer</a> | <a href="https://pages.citeit.net/">Blog</a> | <a href="https://www.citeit.net/about/">About</a> | <a href="https://demo-sites.citeit.net/">Back to Mockups &#8629;</a></li></ul>
+</div>
+
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="2000_MI6_attack#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="2000_MI6_attack#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+
+</p>
+<table class="infobox vevent" style="width:22em"><tbody><tr><th colspan="2" class="summary" style="text-align:center;font-size:125%;font-weight:bold;font-size:130%;">MI6 attack</th></tr><tr><th scope="row">Location</th><td class="location"><a href="https://en.wikipedia.org/wiki/Vauxhall" title="Vauxhall">Vauxhall</a>, <a href="https://en.wikipedia.org/wiki/London_Borough_of_Lambeth" title="London Borough of Lambeth">Lambeth</a>, London</td></tr><tr><th scope="row"><a href="https://en.wikipedia.org/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a></th><td><span style="font-size: small;"><span id="coordinates"><a href="https://en.wikipedia.org/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Coordinates</a>: <span class="plainlinks nourlexpansion"><a rel="nofollow" class="external text" href="https://geohack.toolforge.org/geohack.php?pagename=2000_MI6_attack&amp;params=51.4873_N_0.1243_W_region:GB"><span class="geo-nondefault"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">51°29′14″N</span> <span class="longitude">0°07′27″W</span></span></span><span class="geo-multi-punct">&#xfeff; / &#xfeff;</span><span class="geo-default"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">51.4873°N 0.1243°W</span><span style="display:none">&#xfeff; / <span class="geo">51.4873; -0.1243</span></span></span></a></span></span></span></td></tr><tr><th scope="row">Date</th><td>20&#160;September 2000<span class="noprint">&#59;&#32;19&#160;years ago</span><span style="display:none">&#160;(<span class="bday dtstart published updated">2000-09-20</span>)</span> <br />21:45 (<a href="https://en.wikipedia.org/wiki/British_Summer_Time" title="British Summer Time">BST</a>)</td></tr><tr><th scope="row">Target</th><td><a href="https://en.wikipedia.org/wiki/SIS_Building" title="SIS Building">SIS Building</a></td></tr><tr><th scope="row"><div style="display:inline-block; padding:0.1em 0;line-height:1.2em;">Attack type</div></th><td><a href="https://en.wikipedia.org/wiki/Rocket_launcher" title="Rocket launcher">Rocket launcher</a> attack</td></tr><tr><th scope="row">Weapons</th><td>Russian-built <a href="https://en.wikipedia.org/wiki/RPG-22" title="RPG-22">RPG-22</a> anti-tank rocket</td></tr><tr><th scope="row">Deaths</th><td>0</td></tr><tr><th scope="row">Injured</th><td>0</td></tr><tr><th scope="row">Perpetrators</th><td><a href="https://en.wikipedia.org/wiki/Real_IRA" class="mw-redirect" title="Real IRA">Real IRA</a></td></tr></tbody></table>
+<div role="navigation" class="navbox" aria-labelledby="Dissident_Irish_Republican_campaign" style="margin:0;float:right;clear:right;width:25.5em;margin-bottom:0.5em;margin-left:1em;;padding:3px"><table class="nowraplinks navbox-vertical mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background-color:#C3D6EF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="https://en.wikipedia.org/wiki/Template:Campaignbox_Dissident_Irish_Republican_Campaign" title="Template:Campaignbox Dissident Irish Republican Campaign"><abbr title="View this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="https://en.wikipedia.org/wiki/Template_talk:Campaignbox_Dissident_Irish_Republican_Campaign" title="Template talk:Campaignbox Dissident Irish Republican Campaign"><abbr title="Discuss this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Campaignbox_Dissident_Irish_Republican_Campaign&amp;action=edit"><abbr title="Edit this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Dissident_Irish_Republican_campaign" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="https://en.wikipedia.org/wiki/Dissident_Irish_Republican_campaign" class="mw-redirect" title="Dissident Irish Republican campaign"><span class="wrap">Dissident Irish Republican campaign</span></a></span></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="https://en.wikipedia.org/wiki/1998_Banbridge_bombing" title="1998 Banbridge bombing">1998 Banbridge bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Omagh_bombing" title="Omagh bombing">Omagh bombing</a></li>
+<li><a class="mw-selflink selflink">2000 MI6 attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2001_South_Armagh_attacks" title="2001 South Armagh attacks">2001 South Armagh attacks</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2001_BBC_bombing" title="2001 BBC bombing">2001 BBC bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2001_Ealing_bombing" title="2001 Ealing bombing">2001 Ealing bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2001_Birmingham_bombing" title="2001 Birmingham bombing">2001 Birmingham bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2002_Short_Strand_clashes" title="2002 Short Strand clashes">2002 Short Strand clashes</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2006_Dublin_riots" title="2006 Dublin riots">2006 Dublin riots</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Massereene_Barracks_shooting" title="Massereene Barracks shooting">Massereene Barracks shooting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Killing_of_Stephen_Carroll" title="Killing of Stephen Carroll">Killing of Stephen Carroll</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2010_Newry_car_bombing" title="2010 Newry car bombing">2010 Newry car bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Palace_Barracks" title="Palace Barracks">Palace Barracks bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Murder_of_Ronan_Kerr" title="Murder of Ronan Kerr">Murder of Ronan Kerr</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Murder_of_David_Black" title="Murder of David Black">Murder of David Black</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bishop_Street_Courthouse" title="Bishop Street Courthouse">Bishop Street Courthouse bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lyra_McKee#Death" title="Lyra McKee">Murder of Lyra McKee</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Newtownbutler_bombing" title="Newtownbutler bombing">Newtownbutler bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Brexit_Day_bomb_plot" title="Brexit Day bomb plot">Brexit Day bomb plot</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="The_Troublesin_Ireland" style="margin:0;float:right;clear:right;width:25.5em;margin-bottom:0.5em;margin-left:1em;;padding:3px"><table class="nowraplinks navbox-vertical mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background-color:#C3D6EF;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="https://en.wikipedia.org/wiki/Template:Campaignbox_Northern_Ireland_Troubles" title="Template:Campaignbox Northern Ireland Troubles"><abbr title="View this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="https://en.wikipedia.org/wiki/Template_talk:Campaignbox_Northern_Ireland_Troubles" title="Template talk:Campaignbox Northern Ireland Troubles"><abbr title="Discuss this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Campaignbox_Northern_Ireland_Troubles&amp;action=edit"><abbr title="Edit this template" style=";background-color:#C3D6EF;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="The_Troublesin_Ireland" style="font-size:114%;margin:0 4em"><span style="line-height:1.6em"><a href="https://en.wikipedia.org/wiki/The_Troubles" title="The Troubles">The Troubles</a><br /><small>in <a href="https://en.wikipedia.org/wiki/Ireland" title="Ireland">Ireland</a></small></span></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<dl><dt>1960s and 1970s</dt></dl>
+<ul><li><a href="https://en.wikipedia.org/wiki/RT%C3%89_Studio_bombing" title="RTÉ Studio bombing">RTÉ bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_the_Bogside" title="Battle of the Bogside">Battle of the Bogside</a>/<a href="https://en.wikipedia.org/wiki/1969_Northern_Ireland_riots" title="1969 Northern Ireland riots">1969 riots</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Operation_Banner" title="Operation Banner">Operation Banner</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_St_Matthew%27s" title="Battle of St Matthew&#39;s">Battle of St Matthew's</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Falls_Curfew" title="Falls Curfew">Falls Curfew</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1970_RUC_booby-trap_bombing" class="mw-redirect" title="1970 RUC booby-trap bombing">Crossmaglen bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1971_Scottish_soldiers%27_killings" title="1971 Scottish soldiers&#39; killings">Scottish soldiers' killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Operation_Demetrius" title="Operation Demetrius">Operation Demetrius</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ballymurphy_massacre" title="Ballymurphy massacre">Ballymurphy massacre</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1971_Newry_killings" title="1971 Newry killings">Newry killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Red_Lion_Pub_bombing" title="Red Lion Pub bombing">Red Lion Pub bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/McGurk%27s_Bar_bombing" title="McGurk&#39;s Bar bombing">McGurk's Bar bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1971_Balmoral_Furniture_Company_bombing" title="1971 Balmoral Furniture Company bombing">Balmoral showroom bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bloody_Sunday_(1972)" title="Bloody Sunday (1972)">Bloody Sunday</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Abercorn_Restaurant_bombing" title="Abercorn Restaurant bombing">Abercorn Restaurant bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1972_Donegall_Street_bombing" class="mw-redirect" title="1972 Donegall Street bombing">Donegall St bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_at_Springmartin" title="Battle at Springmartin">Battle at Springmartin</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Lenadoon" title="Battle of Lenadoon">Battle of Lenadoon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Springhill_Massacre" class="mw-redirect" title="Springhill Massacre">Springhill massacre</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bloody_Friday_(1972)" title="Bloody Friday (1972)">Bloody Friday</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Operation_Motorman" title="Operation Motorman">Operation Motorman</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Claudy_bombing" title="Claudy bombing">Claudy bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Newry_customs_bombing" title="Newry customs bombing">Newry customs bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Military_Reaction_Force" title="Military Reaction Force">Military Reaction Force</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Imperial_Hotel_bombing_1972" title="Imperial Hotel bombing 1972">Imperial Hotel bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Benny%27s_Bar_bombing" title="Benny&#39;s Bar bombing">Benny's Bar bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Top_of_the_Hill_bar_shooting" title="Top of the Hill bar shooting">Top of the Hill bar shooting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Belturbet_bombing" title="Belturbet bombing">Belturbet bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1972_and_1973_Dublin_bombings" title="1972 and 1973 Dublin bombings">Dublin bombings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/New_Lodge_Six_shooting" title="New Lodge Six shooting">New Lodge Six shooting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Provisional_IRA_Honey_Trap_killings" title="Provisional IRA Honey Trap killings">Honey Trap killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Paddy_Wilson_and_Irene_Andrews_killings" title="Paddy Wilson and Irene Andrews killings">Paddy Wilson and Irene Andrews killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1973_Coleraine_bombings" title="1973 Coleraine bombings">Coleraine bombings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rose_%26_Crown_Bar_bombing" title="Rose &amp; Crown Bar bombing">Rose &amp; Crown Bar bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Attack_on_UDR_Clogher_barracks" title="Attack on UDR Clogher barracks">Clogher attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dublin_and_Monaghan_bombings" title="Dublin and Monaghan bombings">Dublin-Monaghan bombings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1975_Conway%27s_Bar_attack" title="1975 Conway&#39;s Bar attack">Conway's attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mountainview_Tavern_attack" title="Mountainview Tavern attack">Mountainview Tavern attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bleary_Darts_Club_shooting" title="Bleary Darts Club shooting">Bleary Darts Club shooting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Strand_Bar_bombing" title="Strand Bar bombing">Strand Bar bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Forkhill_land_mine_attack" title="Forkhill land mine attack">Forkhill attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Miami_Showband_killings" title="Miami Showband killings">Miami Showband killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bayardo_Bar_attack" title="Bayardo Bar attack">Bayardo Bar attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tullyvallen_massacre" title="Tullyvallen massacre">Tullyvallen massacre</a></li>
+<li><a href="https://en.wikipedia.org/wiki/October_1975_Northern_Ireland_attacks" title="October 1975 Northern Ireland attacks">October 1975 attacks</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Drummuckavall_ambush" title="Drummuckavall ambush">Drummuckavall ambush</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dublin_Airport_bombing" title="Dublin Airport bombing">Dublin Airport bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Donnelly%27s_Bar_and_Kay%27s_Tavern_attacks" title="Donnelly&#39;s Bar and Kay&#39;s Tavern attacks">Donnelly's Bar and Kay's Tavern attacks</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Central_Bar_bombing_1975" class="mw-redirect" title="Central Bar bombing 1975">Central Bar bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Reavey_and_O%27Dowd_killings" title="Reavey and O&#39;Dowd killings">Reavey and O'Dowd killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kingsmill_massacre" title="Kingsmill massacre">Kingsmill massacre</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Castleblayney_bombing" title="Castleblayney bombing">Castleblayney bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hillcrest_Bar_bombing" title="Hillcrest Bar bombing">Hillcrest Bar bombing</a></li>
+<li><a href="https://en.wikipedia.org/w/index.php?title=Belleeks_landmine_attack&amp;action=edit&amp;redlink=1" class="new" title="Belleeks landmine attack (page does not exist)">Belleeks attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1976_Step_Inn_pub_bombing" title="1976 Step Inn pub bombing">Step Inn bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Flagstaff_hill_incident" title="Flagstaff hill incident">Flagstaff hill incident</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Charlemont_pub_attacks" title="Charlemont pub attacks">Charlemont pub attacks</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Chlorane_Bar_attack" title="Chlorane Bar attack">Chlorane Bar attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/The_Store_Bar_shooting" title="The Store Bar shooting">Store Bar shooting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ramble_Inn_attack" title="Ramble Inn attack">Ramble Inn attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Garryhinch_ambush" title="Garryhinch ambush">Garryhinch ambush</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1978_British_Army_Gazelle_downing" title="1978 British Army Gazelle downing">Jonesborough <i>Gazelle</i> shootdown</a></li>
+<li><a href="https://en.wikipedia.org/wiki/La_Mon_restaurant_bombing" title="La Mon restaurant bombing">La Mon restaurant bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1978_Crossmaglen_ambush" title="1978 Crossmaglen ambush">Crossmaglen ambush</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1979_Bessbrook_bombing" title="1979 Bessbrook bombing">Bessbrook bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Warrenpoint_ambush" title="Warrenpoint ambush">Warrenpoint ambush</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dungannon_land_mine_attack" title="Dungannon land mine attack">Dungannon attack</a></li></ul>
+<hr />
+<dl><dt>1980s</dt></dl>
+<ul><li><a href="https://en.wikipedia.org/wiki/Dunmurry_train_bombing" title="Dunmurry train bombing">Dunmurry train bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1981_Irish_hunger_strike" title="1981 Irish hunger strike">Hunger strike</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Attacks_on_shipping_in_Lough_Foyle_(1981%E2%80%9382)" title="Attacks on shipping in Lough Foyle (1981–82)">Lough Foyle attacks</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bessbrook_landmine_attack" title="Bessbrook landmine attack">Bessbrook attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Glasdrumman_ambush" title="Glasdrumman ambush">Glasdrumman ambush</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Divis_Flats_bombing_1982" class="mw-redirect" title="Divis Flats bombing 1982">Divis Flats bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Shoot-to-kill_policy_in_Northern_Ireland#Stalker/Sampson_Inquiry" title="Shoot-to-kill policy in Northern Ireland">1982 RUC SPG killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Droppin_Well_bombing" title="Droppin Well bombing">Droppin Well bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ballygawley_land_mine_attack" title="Ballygawley land mine attack">Ballygawley land mine attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Darkley_killings" title="Darkley killings">Darkley killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kesh_ambush" title="Kesh ambush">Kesh ambush</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gransha_hospital_shootings_1984" class="mw-redirect" title="Gransha hospital shootings 1984">Gransha shootings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Strabane_ambush" title="Strabane ambush">Strabane ambush</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1985_Newry_mortar_attack" title="1985 Newry mortar attack">Newry mortar attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Killeen_Landmine_attack" title="Killeen Landmine attack">Killeen attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mortar_attack_on_Enniskillen_barracks" title="Mortar attack on Enniskillen barracks">Enniskillen mortar attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Attack_on_Ballygawley_barracks" title="Attack on Ballygawley barracks">Ballygawley barracks attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Attack_on_RUC_Birches_barracks" title="Attack on RUC Birches barracks">The Birches barracks attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Clontibret_invasion" title="Clontibret invasion">Clontibret invasion</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rosnaree_Hotel_shooting" title="Rosnaree Hotel shooting">Rosnaree Hotel shooting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Loughgall_ambush" title="Loughgall ambush">Loughgall ambush</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Remembrance_Day_bombing" title="Remembrance Day bombing">Remembrance Day bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Milltown_Cemetery_attack" title="Milltown Cemetery attack">Milltown Cemetery attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Corporals_killings" title="Corporals killings">Corporals killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Avenue_Bar_shooting" title="Avenue Bar shooting">Avenue Bar shooting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lisburn_van_bombing" title="Lisburn van bombing">Lisburn bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ballygawley_bus_bombing" title="Ballygawley bus bombing">Ballygawley bus bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ambush_at_Drumnakilly" title="Ambush at Drumnakilly">Drumnakilly ambush</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Orange_Cross_Social_Club_shooting" title="Orange Cross Social Club shooting">Orange Cross Social Club shooting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1989_Jonesborough_ambush" title="1989 Jonesborough ambush">Jonesborough ambush</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Attack_on_Derryard_checkpoint" title="Attack on Derryard checkpoint">Derryard checkpoint attack</a></li></ul>
+<hr />
+<dl><dt>1990s</dt></dl>
+<ul><li><a href="https://en.wikipedia.org/wiki/1990_British_Army_Gazelle_shootdown" title="1990 British Army Gazelle shootdown">Derrygorry <i>Gazelle</i> shootdown</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1990_Downpatrick_roadside_bomb" title="1990 Downpatrick roadside bomb">Downpatrick bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Operation_Conservation" title="Operation Conservation">Operation Conservation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/RFA_Fort_Victoria_bombing" title="RFA Fort Victoria bombing"><i>Fort Victoria</i></a></li>
+<li><a href="https://en.wikipedia.org/wiki/Proxy_bomb#October_1990_proxy_bombings" title="Proxy bomb">Proxy bombings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mullacreevie_ambush" title="Mullacreevie ambush">Mullacreevie ambush</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1991_Cappagh_killings" title="1991 Cappagh killings">Cappagh killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1991_Drumbeg_killings" title="1991 Drumbeg killings">Drumbeg killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Glenanne_barracks_bombing" title="Glenanne barracks bombing">Glenanne barracks bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Coagh_ambush" title="Coagh ambush">Coagh ambush</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1991_Craigavon_killings" title="1991 Craigavon killings">Craigavon killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Crumlin_Road_Prison_bombing" title="Crumlin Road Prison bombing">Crumlin Road Prison bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Donegall_Arms_shooting" title="Donegall Arms shooting">Donegall Arms shooting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Devenish_Arms_attack_1991" title="Devenish Arms attack 1991">Devenish Arms attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Teebane_bombing" title="Teebane bombing">Teebane bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Sean_Graham_bookmakers%27_shooting" title="Sean Graham bookmakers&#39; shooting">Sean Graham bookmakers' shooting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Clonoe_ambush" title="Clonoe ambush">Clonoe ambush</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Attack_on_Cloghoge_checkpoint" title="Attack on Cloghoge checkpoint">Cloghoge checkpoint attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1992_Coalisland_riots" title="1992 Coalisland riots">Coalisland riots</a></li>
+<li><a href="https://en.wikipedia.org/wiki/South_Armagh_Sniper_(1990%E2%80%931997)" title="South Armagh Sniper (1990–1997)">South Armagh sniper campaign</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Forensic_Science_Laboratory_bombing" title="Forensic Science Laboratory bombing">Forensic Science Laboratory bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Attack_on_James_Murray%27s_bookmakers" title="Attack on James Murray&#39;s bookmakers">James Murray's bookmakers attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Night_of_the_Long_Knives_(1992)" title="Night of the Long Knives (1992)">Night of the Long Knives</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1993_Castlerock_killings" title="1993 Castlerock killings">Castlerock killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Occupation_of_Cullaville" title="Occupation of Cullaville">Cullaville occupation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Battle_of_Newry_Road" title="Battle of Newry Road">Battle of Newry Road</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Shankill_Road_bombing" title="Shankill Road bombing">Shankill Road bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Greysteel_massacre" title="Greysteel massacre">Greysteel massacre</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1994_British_Army_Lynx_shootdown" title="1994 British Army Lynx shootdown">Crossmaglen <i>Lynx</i> shootdown</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1994_Shankill_Road_killings" title="1994 Shankill Road killings">1994 Shankill Road killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Loughinisland_massacre" title="Loughinisland massacre">Loughinisland massacre</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1994_Dublin-Belfast_train_bombing" title="1994 Dublin-Belfast train bombing">Dublin-Belfast train bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Drumcree_conflict" title="Drumcree conflict">Drumcree conflict</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1996_Killyhevlin_Hotel_bombing" class="mw-redirect" title="1996 Killyhevlin Hotel bombing">Killyhevlin bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1996_Derry_riots" class="mw-redirect" title="1996 Derry riots">1996 Derry riots</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Thiepval_barracks_bombing" title="Thiepval barracks bombing">Thiepval barracks bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1997_Coalisland_attack" title="1997 Coalisland attack">Coalisland attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1997_Northern_Ireland_riots" title="1997 Northern Ireland riots">1997 riots</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Newtownhamilton_bombing" title="Newtownhamilton bombing">Newtownhamilton bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Quinn_brothers%27_killings" title="Quinn brothers&#39; killings">Quinn brothers' killings</a></li>
+<li><a href="https://en.wikipedia.org/wiki/1998_Banbridge_bombing" title="1998 Banbridge bombing">Banbridge bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Omagh_bombing" title="Omagh bombing">Omagh bombing</a></li></ul>
+<hr />
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="https://en.wikipedia.org/wiki/Template:Campaignbox_The_Troubles_in_Britain_and_Europe" title="Template:Campaignbox The Troubles in Britain and Europe">The Troubles in Britain and Europe</a> and <a href="https://en.wikipedia.org/wiki/Template:Campaignbox_assassinations_Northern_Ireland_Troubles" title="Template:Campaignbox assassinations Northern Ireland Troubles">Assassinations during the Troubles</a></div>
+</div></td></tr></tbody></table></div>
+<p>On Wednesday 20 September 2000, the <a href="https://en.wikipedia.org/wiki/Real_Irish_Republican_Army" title="Real Irish Republican Army">Real Irish Republican Army</a> (RIRA) carried out an attack on <a href="https://en.wikipedia.org/wiki/MI6" class="mw-redirect" title="MI6">MI6</a>'s <a href="https://en.wikipedia.org/wiki/SIS_Building" title="SIS Building">SIS Building</a> headquarters in <a href="https://en.wikipedia.org/wiki/Vauxhall" title="Vauxhall">Vauxhall</a>, <a href="https://en.wikipedia.org/wiki/London_Borough_of_Lambeth" title="London Borough of Lambeth">Lambeth</a>, London. A Russian-built <a href="https://en.wikipedia.org/wiki/RPG-22" title="RPG-22">RPG-22</a> anti-tank rocket, fired 300 metres (330 yards) away from MI6 headquarters, struck the building on the south side of the eighth floor, causing superficial damage. No fatalities or injuries were recorded.<sup id="cite_ref-1" class="reference"><a href="2000_MI6_attack#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Although London had been the targets of terrorist attacks before 2000, it had not been subjected to a <a href="https://en.wikipedia.org/wiki/Rocket_launcher" title="Rocket launcher">rocket launcher</a> attack; this was the first time a RPG-22 rocket launcher was seen and used in Great Britain. It was initially thought the Real IRA acquired the launchers from the <a href="https://en.wikipedia.org/wiki/Provisional_IRA" class="mw-redirect" title="Provisional IRA">Provisional IRA</a>'s arsenal, but later confirmed it was brought from the former <a href="https://en.wikipedia.org/wiki/Yugoslavia" title="Yugoslavia">Yugoslavia</a>.<sup id="cite_ref-independentmi6_2-0" class="reference"><a href="2000_MI6_attack#cite_note-independentmi6-2">&#91;2&#93;</a></sup> The "audacious" attack caused minimal damage due to the building's bullet-proof and bomb-proof structure, failing to penetrate the inner <a href="https://en.wikipedia.org/wiki/Cladding_(construction)" title="Cladding (construction)">cladding</a>.<sup id="cite_ref-telegraph_3-0" class="reference"><a href="2000_MI6_attack#cite_note-telegraph-3">&#91;3&#93;</a></sup>
+</p>
+
+<div class="highlight"><h3>&darr; Scroll down to view the first contextual citation. &darr;</h3></div>
+
+
+<p>At the time of the attack, the constituency of <a href="https://en.wikipedia.org/wiki/South_Antrim_(UK_Parliament_constituency)" title="South Antrim (UK Parliament constituency)">South Antrim</a> was preparing for a <a href="https://en.wikipedia.org/wiki/2000_South_Antrim_by-election" title="2000 South Antrim by-election">by-election</a> to be held the following day; it was won by Democratic Unionist <a href="https://en.wikipedia.org/wiki/William_McCrea,_Baron_McCrea_of_Magherafelt_and_Cookstown" title="William McCrea, Baron McCrea of Magherafelt and Cookstown">William McCrea</a>, who defeated Ulster Unionist <a href="https://en.wikipedia.org/wiki/David_Burnside" title="David Burnside">David Burnside</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="2000_MI6_attack#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="2000_MI6_attack#Details_of_the_attack"><span class="tocnumber">2</span> <span class="toctext">Details of the attack</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="2000_MI6_attack#Reaction"><span class="tocnumber">3</span> <span class="toctext">Reaction</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="2000_MI6_attack#Investigation"><span class="tocnumber">4</span> <span class="toctext">Investigation</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="2000_MI6_attack#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="2000_MI6_attack#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="https://en.wikipedia.org/wiki/File:Mi6.london.arp.jpg" class="image"><img alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mi6.london.arp.jpg/200px-Mi6.london.arp.jpg" decoding="async" width="200" height="145" class="thumbimage" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mi6.london.arp.jpg/300px-Mi6.london.arp.jpg 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mi6.london.arp.jpg/400px-Mi6.london.arp.jpg 2x" data-file-width="2236" data-file-height="1623" /></a>  <div class="thumbcaption"><div class="magnify"><a href="https://en.wikipedia.org/wiki/File:Mi6.london.arp.jpg" class="internal" title="Enlarge"></a></div>The <a href="https://en.wikipedia.org/wiki/SIS_building" class="mw-redirect" title="SIS building">SIS building</a>, headquarters of MI6</div></div></div>
+<p>London had been the target of a similar attack in 1991 when an <a href="https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army" title="Provisional Irish Republican Army">IRA</a> mortar shell <a href="https://en.wikipedia.org/wiki/Downing_Street_mortar_attack" title="Downing Street mortar attack">was fired at</a> <a href="https://en.wikipedia.org/wiki/10_Downing_Street" title="10 Downing Street">10 Downing Street</a> and exploded during a cabinet meeting held by then Prime Minister <a href="https://en.wikipedia.org/wiki/John_Major" title="John Major">John Major</a>. Before the Real IRA's MI6 attack, <a href="https://en.wikipedia.org/wiki/Hammersmith_Bridge" title="Hammersmith Bridge">Hammersmith Bridge</a> was damaged by a small bomb blast in June 2000, resulting in the bridge requiring renovation.<sup id="cite_ref-nymi6_4-0" class="reference"><a href="2000_MI6_attack#cite_note-nymi6-4">&#91;4&#93;</a></sup> A further planting of a bomb occurred near <a href="https://en.wikipedia.org/wiki/Ealing_Broadway_station" title="Ealing Broadway station">Ealing Broadway station</a> in July 2000.<sup id="cite_ref-latimesmi6_5-0" class="reference"><a href="2000_MI6_attack#cite_note-latimesmi6-5">&#91;5&#93;</a></sup>
+</p><p>A by-election in the constituency of <a href="https://en.wikipedia.org/wiki/South_Antrim_(UK_Parliament_constituency)" title="South Antrim (UK Parliament constituency)">South Antrim</a> was scheduled to be held the day after the attack. Democratic Unionist <a href="https://en.wikipedia.org/wiki/William_McCrea,_Baron_McCrea_of_Magherafelt_and_Cookstown" title="William McCrea, Baron McCrea of Magherafelt and Cookstown">William McCrea</a> was elected with 37.95% of the votes, defeating fellow candidates Ulster Unionist <a href="https://en.wikipedia.org/wiki/David_Burnside" title="David Burnside">David Burnside</a>, <a href="https://en.wikipedia.org/wiki/Donovan_McClelland" title="Donovan McClelland">Donovan McClelland</a> of the <a href="https://en.wikipedia.org/wiki/Social_Democratic_and_Labour_Party" title="Social Democratic and Labour Party">Social Democratic and Labour Party</a>, <a href="https://en.wikipedia.org/wiki/Martin_Meehan_(Irish_republican)" title="Martin Meehan (Irish republican)">Martin Meehan</a> of <a href="https://en.wikipedia.org/wiki/Sinn_F%C3%A9in" title="Sinn Féin">Sinn Féin</a>, <a href="https://en.wikipedia.org/wiki/David_Ford" title="David Ford">David Ford</a> of the <a href="https://en.wikipedia.org/wiki/Alliance_Party_of_Northern_Ireland" title="Alliance Party of Northern Ireland">Alliance Party of Northern Ireland</a> and <a href="https://en.wikipedia.org/w/index.php?title=David_Collins_(British_politician)&amp;action=edit&amp;redlink=1" class="new" title="David Collins (British politician) (page does not exist)">David Collins</a> of the <a href="https://en.wikipedia.org/wiki/Natural_Law_Party" title="Natural Law Party">Natural Law Party</a>.<sup id="cite_ref-6" class="reference"><a href="2000_MI6_attack#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Details_of_the_attack">Details of the attack</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;action=edit&amp;section=2" title="Edit section: Details of the attack">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Three members of the RIRA went into an area of Spring Gardens and used a grassy knoll to fire their 2.8&#160;kg RPG-22 missile about 300 metres away from the SIS Building.<sup id="cite_ref-independentmi6_2-1" class="reference"><a href="2000_MI6_attack#cite_note-independentmi6-2">&#91;2&#93;</a></sup> At 21:45 the grenade caused damage to a green plated glass window, yards below sensitive satellite equipment on the building's roof which was believed to be the main target.<sup id="cite_ref-telegraph_3-1" class="reference"><a href="2000_MI6_attack#cite_note-telegraph-3">&#91;3&#93;</a></sup> The force of the explosion was felt by people who were in underground stations and in nearby cars.<sup id="cite_ref-7" class="reference"><a href="2000_MI6_attack#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+
+
+<div class="highlight"><h3>Click on grey-blue quote text for contextual citation: (popup)</h3>
+<ul><li>Click <span class="double_underline">below</span> on: <span class="lookfor_quote">"audacious attack in a busy part of London .."</span> &darr;</li></ul>
+
+</div>
+
+
+<h2><span class="mw-headline" id="Reaction">Reaction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;action=edit&amp;section=3" title="Edit section: Reaction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The attack was condemned by the Deputy Assistant Commissioner and head of the Anti-Terrorist Branch of the <a href="https://en.wikipedia.org/wiki/Metropolitan_Police" title="Metropolitan Police">Metropolitan Police</a> Alan Fry as an "<q cite="https://www.nytimes.com/2000/09/22/news/attack-on-mi6-snarls-central-london-missile-hits-the-home-of-british.html">audacious attack in a busy part of London</q>".<sup id="cite_ref-nymi6_4-1" class="reference"><a href="2000_MI6_attack#cite_note-nymi6-4">&#91;4&#93;</a></sup> Security procedures at the SIS Building were reviewed by the British Government in conjunction with the Metropolitan Police.<sup id="cite_ref-8" class="reference"><a href="2000_MI6_attack#cite_note-8">&#91;8&#93;</a></sup>
+</p><p>Police sealed off an area between Vauxhall and Lambeth bridges to allow further investigations to occur.<sup id="cite_ref-latimesmi6_5-1" class="reference"><a href="2000_MI6_attack#cite_note-latimesmi6-5">&#91;5&#93;</a></sup> Services from <a href="https://en.wikipedia.org/wiki/London_Waterloo_railway_station" class="mw-redirect" title="London Waterloo railway station">Waterloo station</a> were cancelled until the mid-afternoon on 21 September.<sup id="cite_ref-9" class="reference"><a href="2000_MI6_attack#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Investigation">Investigation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;action=edit&amp;section=4" title="Edit section: Investigation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A discarded launcher was discovered at a park in Spring Gardens, Vauxhall, along with remnants of the rocket.<sup id="cite_ref-independentmi6_2-2" class="reference"><a href="2000_MI6_attack#cite_note-independentmi6-2">&#91;2&#93;</a></sup> In an effort to trace the source of the RPG-22, security officers analysed the serial number located on the rocket launcher, which was identified to have originated from a cache of weapons in <a href="https://en.wikipedia.org/wiki/Croatia" title="Croatia">Croatia</a>.<sup id="cite_ref-10" class="reference"><a href="2000_MI6_attack#cite_note-10">&#91;10&#93;</a></sup> A stockpile of RPG-22s were ordered by the Real IRA in July 2000 and were seized by Croatian police.<sup id="cite_ref-11" class="reference"><a href="2000_MI6_attack#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>Police in London conducted a <a href="https://en.wiktionary.org/wiki/fingertip_search" class="extiw" title="wikt:fingertip search">fingertip search</a> of nearby railway lines running into Waterloo station, which promoted speculation that the missile was fired from railway lines. There were extensive searches around the area of the SIS Building.<sup id="cite_ref-12" class="reference"><a href="2000_MI6_attack#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="https://en.wikipedia.org/wiki/2001_Ealing_bombing" title="2001 Ealing bombing">2001 Ealing bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2001_Birmingham_bombing" title="2001 Birmingham bombing">2001 Birmingham bombing</a></li></ul>
+
+
+<div class="highlight"><h2>View More about CiteIt.net</h2>
+<ul><li><a href="https://www.citeit.net/">CiteIt.net home</a> | <a href="https://pages.citeit.net/wordpress-plugin/">WordPress Plugin</a> | <a href="https://pages.citeit.net/wikipedia/">Wikipedia</a> |  <a href="https://demo.citeit.net/">Demo</a> | <a href="https://www.citeit.net/code/">Code</a> | <a href="https://www.citeit.net/code/?tab=volunteer">Volunteer</a> | <a href="https://pages.citeit.net/">Blog</a> | <a href="https://www.citeit.net/about/">About</a> | <a href="https://demo-sites.citeit.net/">Back to Mockups &#8629;</a></li></ul>
+<br />
+</div>
+
+
+
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="2000_MI6_attack#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://www.nytimes.com/2000/09/22/news/attack-on-mi6-snarls-central-london-missile-hits-the-home-of-british.html">"Attack on MI6 Snarls Central London&#160;: Missile Hits the Home Of British Intelligence"</a>. <i><a href="https://en.wikipedia.org/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>. 22 September 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">18 September</span> 2020</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Attack+on+MI6+Snarls+Central+London+%3A+Missile+Hits+the+Home+Of+British+Intelligence&amp;rft.date=2000-09-22&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2000%2F09%2F22%2Fnews%2Fattack-on-mi6-snarls-central-london-missile-hits-the-home-of-british.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+MI6+attack" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png");background-image:linear-gradient(transparent,transparent),url("https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("https://upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png");background-image:linear-gradient(transparent,transparent),url("https://upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png");background-image:linear-gradient(transparent,transparent),url("https://upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-independentmi6-2"><span class="mw-cite-backlink">^ <a href="2000_MI6_attack#cite_ref-independentmi6_2-0"><sup><i><b>a</b></i></sup></a> <a href="2000_MI6_attack#cite_ref-independentmi6_2-1"><sup><i><b>b</b></i></sup></a> <a href="2000_MI6_attack#cite_ref-independentmi6_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFSengupta2000" class="citation web cs1">Sengupta, Kim (23 September 2000). <a rel="nofollow" class="external text" href="https://www.independent.co.uk/news/uk/this-britain/missile-launcher-in-mi6-attack-was-new-to-uk-698787.html">"Missile launcher in MI6 attack was new to UK"</a>. <i><a href="https://en.wikipedia.org/wiki/The_Independent" title="The Independent">The Independent</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20171029132333/http://www.independent.co.uk/news/uk/this-britain/missile-launcher-in-mi6-attack-was-new-to-uk-698787.html">Archived</a> from the original on 29 October 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">26 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Independent&amp;rft.atitle=Missile+launcher+in+MI6+attack+was+new+to+UK&amp;rft.date=2000-09-23&amp;rft.aulast=Sengupta&amp;rft.aufirst=Kim&amp;rft_id=https%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fuk%2Fthis-britain%2Fmissile-launcher-in-mi6-attack-was-new-to-uk-698787.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+MI6+attack" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-telegraph-3"><span class="mw-cite-backlink">^ <a href="2000_MI6_attack#cite_ref-telegraph_3-0"><sup><i><b>a</b></i></sup></a> <a href="2000_MI6_attack#cite_ref-telegraph_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFSteeleSmith2000" class="citation web cs1">Steele, John; Smith, Michael (22 September 2000). <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/news/uknews/1356362/MI6-grenade-fired-from-public-park.html">"MI6 grenade fired from public park"</a>. <i><a href="https://en.wikipedia.org/wiki/The_Daily_Telegraph" title="The Daily Telegraph">The Daily Telegraph</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140721142532/http://www.telegraph.co.uk/news/uknews/1356362/MI6-grenade-fired-from-public-park.html">Archived</a> from the original on 21 July 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">26 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Daily+Telegraph&amp;rft.atitle=MI6+grenade+fired+from+public+park&amp;rft.date=2000-09-22&amp;rft.aulast=Steele&amp;rft.aufirst=John&amp;rft.au=Smith%2C+Michael&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fuknews%2F1356362%2FMI6-grenade-fired-from-public-park.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+MI6+attack" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-nymi6-4"><span class="mw-cite-backlink">^ <a href="2000_MI6_attack#cite_ref-nymi6_4-0"><sup><i><b>a</b></i></sup></a> <a href="2000_MI6_attack#cite_ref-nymi6_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFBuerkle2000" class="citation web cs1">Buerkle, Tom (22 September 2000). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2000/09/22/news/22iht-brit.2.t_1.html">"Attack on MI6 Snarls Central London&#160;: Missile Hits the Home of British Intelligence"</a>. <i><a href="https://en.wikipedia.org/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140527224512/http://www.nytimes.com/2000/09/22/news/22iht-brit.2.t_1.html">Archived</a> from the original on 27 May 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">26 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Attack+on+MI6+Snarls+Central+London+%3A+Missile+Hits+the+Home+of+British+Intelligence&amp;rft.date=2000-09-22&amp;rft.aulast=Buerkle&amp;rft.aufirst=Tom&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2000%2F09%2F22%2Fnews%2F22iht-brit.2.t_1.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+MI6+attack" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-latimesmi6-5"><span class="mw-cite-backlink">^ <a href="2000_MI6_attack#cite_ref-latimesmi6_5-0"><sup><i><b>a</b></i></sup></a> <a href="2000_MI6_attack#cite_ref-latimesmi6_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFMiller2000" class="citation web cs1">Miller, Majorie (21 September 2000). <a rel="nofollow" class="external text" href="http://articles.latimes.com/2000/sep/21/news/mn-24450">"Missile Damages Britain's MI6 Spy Headquarters, Causes No Injuries"</a>. <i><a href="https://en.wikipedia.org/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140527220617/http://articles.latimes.com/2000/sep/21/news/mn-24450">Archived</a> from the original on 27 May 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">26 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Los+Angeles+Times&amp;rft.atitle=Missile+Damages+Britain%27s+MI6+Spy+Headquarters%2C+Causes+No+Injuries&amp;rft.date=2000-09-21&amp;rft.aulast=Miller&amp;rft.aufirst=Majorie&amp;rft_id=http%3A%2F%2Farticles.latimes.com%2F2000%2Fsep%2F21%2Fnews%2Fmn-24450&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+MI6+attack" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="2000_MI6_attack#cite_ref-6">^</a></b></span> <span class="reference-text"><cite id="CITEREFMelaugh2000" class="citation web cs1">Melaugh, Martin (21 September 2000). <a rel="nofollow" class="external text" href="http://cain.ulst.ac.uk/issues/politics/election/rw2000.htm">"Westminster By-Election (NI) 21 September 2000"</a>. CAIN. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140527215951/http://cain.ulst.ac.uk/issues/politics/election/rw2000.htm">Archived</a> from the original on 27 May 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">26 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Westminster+By-Election+%28NI%29+21+September+2000&amp;rft.pub=CAIN&amp;rft.date=2000-09-21&amp;rft.aulast=Melaugh&amp;rft.aufirst=Martin&amp;rft_id=http%3A%2F%2Fcain.ulst.ac.uk%2Fissues%2Fpolitics%2Felection%2Frw2000.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+MI6+attack" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="2000_MI6_attack#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk/934937.stm">"<span class="cs1-kern-left">'</span>Rocket' theory over MI6 blast"</a>. <a href="https://en.wikipedia.org/wiki/BBC_News" title="BBC News">BBC News</a> (<a href="https://en.wikipedia.org/wiki/BBC" title="BBC">BBC</a>). 21 September 2000. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170730172404/http://news.bbc.co.uk/1/hi/uk/934937.stm">Archived</a> from the original on 30 July 2017<span class="reference-accessdate">. Retrieved <span class="nowrap">26 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%27Rocket%27+theory+over+MI6+blast&amp;rft.pub=BBC+News+%28BBC%29&amp;rft.date=2000-09-21&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fuk%2F934937.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+MI6+attack" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="2000_MI6_attack#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://hansard.millbanksystems.com/lords/2000/sep/27/mi6-headquarters">"MI6 Headquarters (Hansard, 27 September 2000)"</a>. <i><a href="https://en.wikipedia.org/wiki/Hansard" title="Hansard">Hansard</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140527214904/http://hansard.millbanksystems.com/lords/2000/sep/27/mi6-headquarters">Archived</a> from the original on 27 May 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">26 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Hansard&amp;rft.atitle=MI6+Headquarters+%28Hansard%2C+27+September+2000%29&amp;rft_id=http%3A%2F%2Fhansard.millbanksystems.com%2Flords%2F2000%2Fsep%2F27%2Fmi6-headquarters&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+MI6+attack" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="2000_MI6_attack#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk/935184.stm">"Travel delays in blast aftermath"</a>. <a href="https://en.wikipedia.org/wiki/BBC_News" title="BBC News">BBC News</a> (<a href="https://en.wikipedia.org/wiki/BBC" title="BBC">BBC</a>). 21 September 2000. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060426225310/http://news.bbc.co.uk/1/hi/uk/935184.stm">Archived</a> from the original on 26 April 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Travel+delays+in+blast+aftermath&amp;rft.pub=BBC+News+%28BBC%29&amp;rft.date=2000-09-21&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fuk%2F935184.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+MI6+attack" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="2000_MI6_attack#cite_ref-10">^</a></b></span> <span class="reference-text"><cite id="CITEREFCracknell2000" class="citation web cs1">Cracknell, David (5 November 2000). <a rel="nofollow" class="external text" href="https://www.telegraph.co.uk/news/uknews/1373268/Found-Real-IRAs-rocket-launcher-that-scored-a-hit-on-MI6.html">"Found: Real IRA's rocket launcher that scored a hit on MI6"</a>. <i><a href="https://en.wikipedia.org/wiki/The_Daily_Telegraph" title="The Daily Telegraph">The Daily Telegraph</a></i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140721142611/http://www.telegraph.co.uk/news/uknews/1373268/Found-Real-IRAs-rocket-launcher-that-scored-a-hit-on-MI6.html">Archived</a> from the original on 21 July 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">26 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Daily+Telegraph&amp;rft.atitle=Found%3A+Real+IRA%27s+rocket+launcher+that+scored+a+hit+on+MI6&amp;rft.date=2000-11-05&amp;rft.aulast=Cracknell&amp;rft.aufirst=David&amp;rft_id=https%3A%2F%2Fwww.telegraph.co.uk%2Fnews%2Fuknews%2F1373268%2FFound-Real-IRAs-rocket-launcher-that-scored-a-hit-on-MI6.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+MI6+attack" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="2000_MI6_attack#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.independent.ie/irish-news/weapon-used-in-mi6-attack-linked-to-real-ira-26109901.html">"Weapon used in MI6 attack linked to Real IRA"</a>. <a href="https://en.wikipedia.org/wiki/Irish_Independent" title="Irish Independent">Irish Independent</a>. 10 May 2007. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20140527212344/http://www.independent.ie/irish-news/weapon-used-in-mi6-attack-linked-to-real-ira-26109901.html">Archived</a> from the original on 27 May 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">26 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Weapon+used+in+MI6+attack+linked+to+Real+IRA&amp;rft.pub=Irish+Independent&amp;rft.date=2007-05-10&amp;rft_id=http%3A%2F%2Fwww.independent.ie%2Firish-news%2Fweapon-used-in-mi6-attack-linked-to-real-ira-26109901.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+MI6+attack" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="2000_MI6_attack#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/1/hi/uk/937298.stm">"MI6 attack weapon identified"</a>. <a href="https://en.wikipedia.org/wiki/BBC_News" title="BBC News">BBC News</a> (<a href="https://en.wikipedia.org/wiki/BBC" title="BBC">BBC</a>). 22 September 2000. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060317102540/http://news.bbc.co.uk/1/hi/uk/937298.stm">Archived</a> from the original on 17 March 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 May</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=MI6+attack+weapon+identified&amp;rft.pub=BBC+News+%28BBC%29&amp;rft.date=2000-09-22&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2F1%2Fhi%2Fuk%2F937298.stm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3A2000+MI6+attack" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Real_Irish_Republican_Army_and_the_32_County_Sovereignty_Movement" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="https://en.wikipedia.org/wiki/Template:RIRA/32CSM" title="Template:RIRA/32CSM"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="https://en.wikipedia.org/wiki/Template_talk:RIRA/32CSM" title="Template talk:RIRA/32CSM"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:RIRA/32CSM&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Real_Irish_Republican_Army_and_the_32_County_Sovereignty_Movement" style="font-size:114%;margin:0 4em"><a href="https://en.wikipedia.org/wiki/Real_Irish_Republican_Army" title="Real Irish Republican Army">Real Irish Republican Army</a> and the <a href="https://en.wikipedia.org/wiki/32_County_Sovereignty_Movement" title="32 County Sovereignty Movement">32 County Sovereignty Movement</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="https://en.wikipedia.org/wiki/The_Troubles" title="The Troubles">The Troubles</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Northern_Ireland_peace_process" title="Northern Ireland peace process">Northern Ireland peace process</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mitchell_Principles" title="Mitchell Principles">Mitchell Principles</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Good_Friday_Agreement" title="Good Friday Agreement">Good Friday Agreement</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dissident_republican" title="Dissident republican">Dissident republican</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Dissident_Irish_Republican_campaign" class="mw-redirect" title="Dissident Irish Republican campaign">Dissident Irish Republican campaign</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="https://en.wikipedia.org/wiki/Timeline_of_Real_Irish_Republican_Army_actions" title="Timeline of Real Irish Republican Army actions">Attacks</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="https://en.wikipedia.org/wiki/1998_Banbridge_bombing" title="1998 Banbridge bombing">1998 Banbridge bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Omagh_bombing" title="Omagh bombing">Omagh bombing</a></li>
+<li><a class="mw-selflink selflink">2000 MI6 attack</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2001_BBC_bombing" title="2001 BBC bombing">2001 BBC bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2001_Ealing_bombing" title="2001 Ealing bombing">2001 Ealing bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2001_Birmingham_bombing" title="2001 Birmingham bombing">2001 Birmingham bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Massereene_Barracks_shooting" title="Massereene Barracks shooting">Massereene Barracks shooting</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2010_Newry_car_bombing" title="2010 Newry car bombing">2010 Newry car bombing</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lyra_McKee#Death" title="Lyra McKee">Death of Lyra McKee</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Personalities</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="https://en.wikipedia.org/wiki/Bernadette_Sands_McKevitt" title="Bernadette Sands McKevitt">Bernadette Sands McKevitt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Michael_McKevitt" title="Michael McKevitt">Michael McKevitt</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Liam_Campbell" title="Liam Campbell">Liam Campbell</a></li>
+<li><a href="https://en.wikipedia.org/w/index.php?title=Joe_Dillon_(Irish_Republican)&amp;action=edit&amp;redlink=1" class="new" title="Joe Dillon (Irish Republican) (page does not exist)">Joe Dillon</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Seamus_Daly" title="Seamus Daly">Seamus Daly</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Colm_Murphy" title="Colm Murphy">Colm Murphy</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Murder_of_Gareth_O%27Connor" title="Murder of Gareth O&#39;Connor">Gareth O'Connor</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Murder_of_Andrew_Burns" title="Murder of Andrew Burns">Andrew Burns</a></li>
+<li><a href="https://en.wikipedia.org/w/index.php?title=Francie_Mackey&amp;action=edit&amp;redlink=1" class="new" title="Francie Mackey (page does not exist)">Francie Mackey</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gary_Donnelly_(Irish_republican)" title="Gary Donnelly (Irish republican)">Gary Donnelly</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Marian_Price" title="Marian Price">Marian Price</a></li>
+<li><a href="https://en.wikipedia.org/w/index.php?title=Alan_Ryan_(Irish_republican)&amp;action=edit&amp;redlink=1" class="new" title="Alan Ryan (Irish republican) (page does not exist)">Alan Ryan</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Colin_Duffy" title="Colin Duffy">Colin Duffy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Associates</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="https://en.wikipedia.org/wiki/Republican_Action_Against_Drugs" title="Republican Action Against Drugs">Republican Action Against Drugs</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Clan_na_Gael" title="Clan na Gael">Republican Clan na Gael</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Derivatives</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="https://en.wikipedia.org/wiki/%C3%93glaigh_na_h%C3%89ireann_(Real_IRA_splinter_group)" title="Óglaigh na hÉireann (Real IRA splinter group)">Óglaigh na hÉireann (Real IRA splinter group)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2335
+Cached time: 20200918162543
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.344 seconds
+Real time usage: 0.467 seconds
+Preprocessor visited node count: 1714/1000000
+Post‐expand include size: 83024/2097152 bytes
+Template argument size: 8634/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 49848/5000000 bytes
+Lua time usage: 0.166/10.000 seconds
+Lua memory usage: 4.84 MB/50 MB
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  390.388      1 -total
+ 37.62%  146.867      1 Template:Reflist
+ 30.62%  119.536      1 Template:Infobox_civilian_attack
+ 28.86%  112.652      1 Template:Infobox
+ 22.63%   88.329      1 Template:Cite_news
+ 11.01%   42.991     11 Template:Cite_web
+ 10.70%   41.767      1 Template:EngvarB
+  9.31%   36.357      1 Template:Coord
+  9.20%   35.920      2 Template:Campaignbox
+  8.51%   33.225      2 Template:Military_navigation
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:42866347-0!canonical and timestamp 20200918162543 and revision id 979017045
+ -->
+</div><noscript><img src="https://en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;oldid=979017045">https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;oldid=979017045</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="https://en.wikipedia.org/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="https://en.wikipedia.org/wiki/Category:2000_in_London" title="Category:2000 in London">2000 in London</a></li><li><a href="https://en.wikipedia.org/wiki/Category:Battles_and_conflicts_without_fatalities" title="Category:Battles and conflicts without fatalities">Battles and conflicts without fatalities</a></li><li><a href="https://en.wikipedia.org/wiki/Category:2000_crimes_in_the_United_Kingdom" title="Category:2000 crimes in the United Kingdom">2000 crimes in the United Kingdom</a></li><li><a href="https://en.wikipedia.org/wiki/Category:Real_Irish_Republican_Army_actions" title="Category:Real Irish Republican Army actions">Real Irish Republican Army actions</a></li><li><a href="https://en.wikipedia.org/wiki/Category:Vauxhall" title="Category:Vauxhall">Vauxhall</a></li><li><a href="https://en.wikipedia.org/wiki/Category:History_of_the_London_Borough_of_Lambeth" title="Category:History of the London Borough of Lambeth">History of the London Borough of Lambeth</a></li><li><a href="https://en.wikipedia.org/wiki/Category:Secret_Intelligence_Service" title="Category:Secret Intelligence Service">Secret Intelligence Service</a></li><li><a href="https://en.wikipedia.org/wiki/Category:September_2000_events_in_the_United_Kingdom" title="Category:September 2000 events in the United Kingdom">September 2000 events in the United Kingdom</a></li><li><a href="https://en.wikipedia.org/wiki/Category:Attacks_by_Republicans_since_the_Good_Friday_Agreement" title="Category:Attacks by Republicans since the Good Friday Agreement">Attacks by Republicans since the Good Friday Agreement</a></li><li><a href="https://en.wikipedia.org/wiki/Category:20th_century_in_the_London_Borough_of_Lambeth" title="Category:20th century in the London Borough of Lambeth">20th century in the London Borough of Lambeth</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="https://en.wikipedia.org/wiki/Category:EngvarB_from_November_2017" title="Category:EngvarB from November 2017">EngvarB from November 2017</a></li><li><a href="https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_November_2017" title="Category:Use dmy dates from November 2017">Use dmy dates from November 2017</a></li><li><a href="https://en.wikipedia.org/wiki/Category:Coordinates_on_Wikidata" title="Category:Coordinates on Wikidata">Coordinates on Wikidata</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="https://en.wikipedia.org/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="https://en.wikipedia.org/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&amp;returnto=2000+MI6+attack" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="https://en.wikipedia.org/w/index.php?title=Special:UserLogin&amp;returnto=2000+MI6+attack" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="2000_MI6_attack" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="https://en.wikipedia.org/wiki/Talk:2000_MI6_attack" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="2000_MI6_attack">Read</a></li><li id="ca-edit"><a href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="https://en.wikipedia.org/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="https://en.wikipedia.org/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="https://en.wikipedia.org/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="https://en.wikipedia.org/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="https://en.wikipedia.org/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="https://en.wikipedia.org/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="https://en.wikipedia.org/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="https://en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li><li id="n-shoplink"><a href="https://shop.wikimedia.org/" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="https://en.wikipedia.org/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-portal"><a href="https://en.wikipedia.org/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="https://en.wikipedia.org/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="https://en.wikipedia.org/wiki/Special:WhatLinksHere/2000_MI6_attack" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="https://en.wikipedia.org/wiki/Special:RecentChangesLinked/2000_MI6_attack" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="https://en.wikipedia.org/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;oldid=979017045" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&amp;page=2000_MI6_attack&amp;id=979017045&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16969997" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&amp;page=2000_MI6_attack&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="https://en.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q16969997#sitelinks-wikipedia" title="Add interlanguage links" class="wbc-editpage">Add links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 18 September 2020, at 08:10<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="https://foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="https://foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="https://www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="https://en.wikipedia.org/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="https://en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-mobileview"><a href="https://en.m.wikipedia.org/w/index.php?title=2000_MI6_attack&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="https://en.wikipedia.org/static/images/footer/wikimedia-button.png" srcset="https://en.wikipedia.org/static/images/footer/wikimedia-button-1.5x.png 1.5x, https://en.wikipedia.org/static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, https://en.wikipedia.org/static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.344","walltime":"0.467","ppvisitednodes":{"value":1714,"limit":1000000},"postexpandincludesize":{"value":83024,"limit":2097152},"templateargumentsize":{"value":8634,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":49848,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  390.388      1 -total"," 37.62%  146.867      1 Template:Reflist"," 30.62%  119.536      1 Template:Infobox_civilian_attack"," 28.86%  112.652      1 Template:Infobox"," 22.63%   88.329      1 Template:Cite_news"," 11.01%   42.991     11 Template:Cite_web"," 10.70%   41.767      1 Template:EngvarB","  9.31%   36.357      1 Template:Coord","  9.20%   35.920      2 Template:Campaignbox","  8.51%   33.225      2 Template:Military_navigation"]},"scribunto":{"limitreport-timeusage":{"value":"0.166","limit":"10.000"},"limitreport-memusage":{"value":5076065,"limit":52428800}},"cachereport":{"origin":"mw2335","timestamp":"20200918162543","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"2000 MI6 attack","url":"https:\/\/en.wikipedia.org\/wiki\/2000_MI6_attack","sameAs":"http:\/\/www.wikidata.org\/entity\/Q16969997","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q16969997","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2014-05-26T09:20:39Z","dateModified":"2020-09-18T08:10:22Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":139,"wgHostname":"mw2224"});});</script>
+
+<!-- ################ Begin: CiteIt.net Dependencies ############# -->
+  <div id='citeit_container'><!-- CiteIt-quote-context.js injects data returned from lookup in this hidden div --></div>
+  <script>
+	// Call CiteIt.net plugin on all q-tags and blockquotes:
+	$( document ).ready(function() {
+		jQuery('q, blockquote').quoteContext();
+	});
+  </script>
+<!-- ############### End: CiteIt.net Dependencies ############## -->
+
+
+</body></html>
