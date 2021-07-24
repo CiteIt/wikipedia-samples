@@ -60,12 +60,18 @@ The head of the HTML articles includes references to the code CiteIt adds to the
 
 These files are loaded from remote sources but the code files have also been included in this repository for convenience.
 
+## Quote Markup Syntax
 
-The citations themselves are marked up with <q cite="URL">quote text</q> syntax.
+### HTML
+The citations themselves are marked up with **<q cite="URL">quote text</q>** syntax.
 
 ### Examples
 Here is a quote from the Ruth Bader Ginsburg article:
 "<q cite="https://www.washingtonpost.com/wp-dyn/content/article/2007/08/23/AR2007082300903_pf.html">We won't settle for tokens</q>,"
+
+
+### Wiki Markup
+You can read more about proposed [https://meta.wikimedia.org/wiki/User:Timlangeman/sandbox#Proposed_Syntax_for_MediaWiki_contextual_citations](wiki markup).  I'm interested in hearing your feedback.
 
 ### Read more about Sample Code:
   * https://pages.citeit.net/sample-code/examples.html
