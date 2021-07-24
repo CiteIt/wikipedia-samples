@@ -1,0 +1,341 @@
+/*
+	Author: Tim Langeman
+	Author URI: https://www.openpolitics.com/tim
+	Package:    https://www.CiteIt.net
+*/
+
+/* Hidden div at the bottom of the page that houses a copy of the json data */
+div#citeit_container {
+	display:none;
+}
+
+div.ui-dialog, div.ui-widget {
+	display: visible;
+	z-index: 999999;
+}
+
+div.ui-dialog-content {
+	line-height: 150%;
+}
+
+span.lookfor_quote, span.contextual_quote {
+	background-color: #d6e8ec;
+}
+
+
+span.blockquote {
+	color: #555;
+}
+
+/* Inline Popup */
+div.source_url {
+	margin-top: -20px;
+	float: right;
+}
+
+
+div.quote_arrows a, a.citeit_source_domain {
+	color: #0ebfe9;
+	border: 0px;
+}
+
+q, q a, span.q, {
+	color: #333;
+	background-color: #d6e8ec;	
+}
+
+
+q, q a, span.q {
+	color: #33333;
+	text-decoration: none;
+	border-bottom: 0px dotted;
+	background-color: #d6e8ec;
+}
+
+q a:hover {
+	text-decoration: underline;
+	border-bottom: 3px solid;
+}
+
+
+q {
+    quotes: "" "" "" "";
+}
+
+span.q-tag-highlight, .highlight {
+	background-color: yellow;
+}
+
+div.highlight {
+	padding: 5px 10px 5px 15px;
+	margin-bottom: 15px;
+	font-size: 115%;
+}
+
+div.citeit_source {
+	float: right;
+	margin-right: 10%;
+	margin-top: -40px;
+	font-size: 85%;
+}
+
+span.citeit_source_label {
+	padding-right: 7px;
+	padding-left: 10px;
+  color: #999;
+}
+
+/* jQuery Demo Style */
+div#demo_content {
+	background-color: #eee;
+	border: 1px solid #777;
+}
+
+.ui-draggable .ui-dialog-titlebar {
+	font-size: 14px;
+	font-weight: 0;
+}
+
+.ui-dialog-content {
+	font-size: 14px;
+}
+
+/* Position Demo */
+.positionDiv {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  background: #080;
+}
+
+div.highslide-maincontent{
+	font-size: 12px;
+}
+
+div.highslide-maincontent a{
+	text-decoration: underline;
+	color: #168DD9;
+}
+
+.ui-dialog .ui-dialog-content {
+	z-index: 9999999;
+}
+
+/* blockquote style */
+div.quote_arrows {
+	text-align: center;
+	color: #0ebfe9;
+	font-size: 16px;
+	line-height: 1.5;
+	margin-bottom: 10px;
+}
+
+
+div.quote_arrows.context_up {
+	margin: 0 0 -25px 0;
+}
+
+
+div.logo div.quote_arrows {
+	line-height: 2;
+}
+
+div.quote_context {
+	color: #999;
+}
+
+blockquote.quote_context {
+	color: #999;
+	border: 1px solid 1px solid #cdcdc;
+	background-color: #eef3f5;
+	padding: 20px 30px 25px 35px;
+	margin: 0 30px 5px 30px;
+}
+
+blockquote.quote_text {
+	color: #333;
+	border: 1px solid #d8e7f2;
+	background-color: #d6e8ec;
+	padding: 25px 30px 5px 30px;
+	margin: 0 0 15px 0;
+	quotes: "\201c" "\201d" "\2018" "\2019";
+}
+
+blockquote.quote_text:before {
+	content: "\201C";
+	color: #999;
+	margin-top: -5px;
+	vertical-align: -0.4em;
+}
+
+blockquote.quote_text:after {
+	content: "\201D";
+	color: #999;
+	margin-top: -5px;
+	text-align: right;
+	margin-left: -10px;
+}
+
+blockquote::before {
+	/*  content: "";	  remove quote symbol: "\201C" */
+}
+
+div.source_info {
+  background-color: #eee;
+  border: #999 solid 1px;
+  margin: 35px -11px 0px -11px;
+  padding: 20px;
+
+}
+div.read_more {
+  margin-top:25px;
+  margin-bottom: 0px;
+}
+
+
+a.inline_source {
+  font-size: 85%;
+  margin-left: 20px;
+}
+
+a.rotated180{
+  display: block;
+  transform: rotate(180deg);
+
+  /* Safari */
+  -webkit-transform: rotate(180deg);
+
+  /* Firefox */
+  -moz-transform: rotate(180deg);
+
+  /* IE */
+  -ms-transform: rotate(180deg);
+
+  /* Opera */
+  -o-transform: rotate(180deg);
+
+}
+
+
+/* Blockquote Video: YouTube */
+iframe.youtube {
+  margin-top: 10px;
+}
+
+/******* Tooltip Credit: https://www.w3schools.com/howto/howto_css_tooltip.asp **********/
+
+
+/* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+  z-index: 999;
+}
+
+span.context_header {
+  color: #999;
+  font-weight: 800;
+}
+
+.tooltip_icon {
+  font-size: 130%;
+  margin-left: 10px;
+  background-color: #999;
+  padding: 1px 5px;
+  color: #fff;
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  padding: 5px 5px;
+  border-radius: 6px;
+  z-index: 999;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Increase Popup Font-size */
+.highslide-maincontent .width_800 .ui-dialog-content .ui-widget-content,
+.highslide-maincontent .width_700 .ui-dialog-content .ui-widget-content,
+.highslide-maincontent .width_640 .ui-dialog-content .ui-widget-content,
+.highslide-maincontent .width_755 .ui-dialog-content .ui-widget-content {
+   font-size: 170%;
+}
+
+.highslide-maincontent .width_400 .ui-dialog-content .ui-widget-content {
+   font-size: 140%;
+}
+
+/*********** Phone-specific Styles *************/
+@media only screen and (max-width: 768px) {
+
+div.quote_arrows a {
+	font-size: 150%;						/* make it larger: to select on phone screen */
+	border: 0px;
+}
+span.view_on_youtube {
+	font-size: 65%;
+}
+
+iframe.youtube {
+	width: 320px;
+	height: 270px;
+}
+
+blockquote.quote_context {
+	color: #999;
+	border: 1px solid 1px solid #cdcdc;
+	background-color: #eef3f5;
+	padding: 20px 20px 25px 20px;
+	margin: 0 25px 5px 25px;
+}
+
+div.highslide-maincontent{
+	font-size: 13px;
+}
+
+}
+
+@media only screen and (max-width: 480px) {
+
+div.highslide-maincontent{
+	font-size: 14px;
+}
+
+div.source_url {
+  font-size: 120%;
+}
+
+}

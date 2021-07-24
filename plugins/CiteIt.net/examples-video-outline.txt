@@ -1,0 +1,85 @@
+How the CiteIt.net Code Works: A Tutorial for Developers
+
+
+Purpose:
+  * This video is intended for programmers who 
+    want to learn more about the client code used in CiteIt.net.
+
+Topics covered:
+
+  1. How the contextual data snippets are created and sent to the browser using JSON files
+	  - in Developer mode, view the files with long numerical names 
+	    requested from read.citeit.net
+
+  2. How to download the sample code from GitHub and upload it to your own server
+      - download code from GitHub by selecting green "Code" button
+	  - upload the files to your server (or checkout with Git)
+	  - how to set permissions for the sample code so index.php has permmissions to 
+	    write to folder: "CiteIt.net_json"
+
+  3. How to submit your citations for indexing, to generate new contextual JSON files
+  	  - click "New Submission" to go to the Index page
+	  - enter the URL of the citing page
+	  - JSON files are saved in "CiteIt.net_json" folder
+	     - if you don't see the JSON files, check you server's error log to
+		   see if the CiteIt.net_json folder permisssions allow writing to www-data
+
+  4. How the CiteIt.net client javascript works.
+  	  - View Source: example.html
+	  	  Dependencies:
+			- jquery, jquery-migrate, jquery-ui
+			- forge-sha256, jsVideoUrlParser
+		  CSS Depencencies:
+		  	- jquery-ui.min.css
+			- css/quote-context-style.css
+	      Main Depencency:
+		    - js/versions/0.4/CiteIt-quote-context.js
+
+			- loop through all blockqoute and q tags:
+			   * if tag has a "cite" attribute:
+					- construct a hash_key
+					- request a json file with a filename constructed from hash_key
+
+					- use JSON file to append data to hidden div: 'citeit_container'
+					- append JSON context data to hidden div
+
+  5. How to manually create a new html citation:
+     using a YouTube example video with a transcript
+
+	  - Example: Malcolm Gladwell's crime typology: a "Western"
+
+		  YOUTUBE:
+		  - view video on YouTube,
+		  -	click "..." button to see transcript
+	      -	view the text version on CiteIt
+
+		  HTML:
+		  - copy this text into the post, add <blockquote cite='url'>
+		  - markup is allowed, so long as the markup doesn't alter the text version
+
+		  RE-INDEX PAGE:
+		  - YouTube videos take longer to index beause constructing a transcript
+		    from the YouTube API is slower than reading html pages
+
+
+		  FUTURE MEDIA VIEWERS:
+		  - In the Future: I would like to create custom media viewers for:
+		  	  - vimeo
+			  - twitter
+			  - soundcloud
+			  - generic mp4 video
+			  - mp3 audio
+			  - ogg
+			  - aac
+			  - wav
+			  - pdf (python code complete.  Docker hosting setup remaining.)
+			  - word
+			  - powerpoint
+			  - image formats
+			  - epub
+
+
+More Videos:
+  - How to us the Canonical URL Browser Plugin
+  - How to Install the CiteIt.net WordPress Plugin
+

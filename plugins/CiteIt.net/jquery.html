@@ -1,0 +1,11 @@
+<html>
+<script>
+$.getJSON('http://soundcloud.com/oembed?callback=?',
+    {format: 'js', url: 'http://snd.sc/yp6VMo', iframe: true},
+    function(data) {
+        // Stick the html content returned in the object into the page
+        console.log(data['html']);
+    }
+)
+</script>
+</html>

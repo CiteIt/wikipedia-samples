@@ -1,0 +1,139 @@
+
+    q {
+        quotes: "" "" "" "";
+    }
+
+    q, q a, span.q {
+        color: #333;
+        text-decoration: none;
+        border-bottom: 0px dotted;
+        background-color: #d6e8ec;
+    }
+
+    q a:visited {
+        color: #333;
+        background-color: #d6e8ec;
+        text-decoration: none;
+    }
+
+    q a:hover {
+        color: #333;
+        background-color: #d6e8ec;
+        text-decoration: #0645ad underline;
+    }
+
+    div.quote_arrows a,  a.citeit_source_domain {
+        color: #0ebfe9;
+    }
+
+    /* wiki markup */
+    div#citeit_video {
+        background-color: #eee;
+        padding-bottom: 30px;
+    }
+
+    div#citeit_vide h2 {
+        font-size: 125%;
+    }
+
+    div.highlight {
+        background-color: yellow;
+        font-size: 135%;
+        margin-bottom: 10px;
+    }
+
+    blockquote.quote_text:before, blockquote.quote_text:after {
+        font-size: 175%;
+    }
+
+    h4.notice {
+        margin-top:-5px;
+        color: #999;
+    }
+
+    span.lookfor_quote {
+        background-color: #d6e8ec;
+    }
+
+    a.underline {
+        text-decoration: underline;
+    }
+
+    .double_underline {
+        text-decoration-line: underline;
+        text-decoration-style: double;
+        font-style: italic;
+    }
+
+    /************** Classify Citation Errors based on Type *************
+
+    /*** Although Quotation Marks are Used, this is a Title or Term, not a quote. ***/
+    .citeit-non-quote, Q.citeit-non-quote a:visited {
+        background-color: #996600;	
+        color: #fff;
+    }
+
+    /*** A Book that is not available Online ***/
+    .citeit-offline-isbn, q.citeit-offline-isbn a:visited  {
+        background-color: #3366ff;	
+        color: #fff;
+    }
+
+    /*** Document requires a subscription ***/
+    .citeit-paywall, q.citeit-paywall a:visited  {
+        background-color: #666699;	
+        color: #fff;
+    }
+
+    /*** Adademic document requires a subscription ***/
+    .citeit-edu, q.citeit-edu a:visited  {
+        background-color: #6600cc;	
+        color: #fff;
+    }
+
+    /*** Twitter generates its HTML using javascript, which I hope a future version of CiteIt can handle ***/
+    .citeit-twitter, q.citeit-twitter a:visited {
+        background-color: #3366ff;
+        color: #fff;
+    }
+
+    /*** Source is available to borrow electronically through Archive.org ***/
+    .citeit-archive-org-borrow, q.citeit-archive-org-borrow a:visited,  {
+        background-color: #6699ff;
+        color: #fff;
+    }
+
+    /*** Archive.org generates its HTML using javascript, which I hope a future version of CiteIt can handle ***/
+    .citeit-archive-org, q.citeit-archive-org a:visited,  {
+        background-color: #33ccff;
+        color: #fff;
+    }
+
+    /*** A Match is found, but no Context is Returned ***/
+    .citeit-no-context, q.citeit-no-context a:visited {
+        background-color: #ff6600;
+        color: #fff;
+    }
+
+    /*** An Alternative Source is uses Instead because it provides Better Context.  Requires creating a new Footnote ***/
+    .citeit-better-link, citeit-better-link a:visited {
+        background-color: green;
+    }
+
+    /*** The Quote was not found in the Cited Sourcee ***/
+    .citeit-no-match, q.citeit-no-match a:visited {
+        background-color: #cc0000;
+        color: #fff;
+    }
+
+    /*** Context or Quote Match is Returned, but Incorrect ***/
+    .citeit-error-context, q.citeit-error-context a:visited {
+        background-color: #ff3399;
+        color: #fff;
+    }
+
+    /*** The Citation is a Quote of a Quote, without the original Context ***/
+    .citeit-naked-quote, q.citeit-naked-quote a:visited {
+        Background-color:  #3366FF;
+    }
+*****/
