@@ -1,4 +1,4 @@
-# wikipedia-samples
+# Wikipedia-samples
 
 ## 8 Sample Wikipedia articles used as a demo of CiteIt functionality:
   * Hamlet
@@ -10,11 +10,13 @@
   * Syphilis
   * Donald Trump
 
-The head of the HTML articles includes references to the code CiteIt adds to the files:
+CiteIt-style contextual citations can be added to a website by adding 
+  * javascript code libraries and css style sheets to the head
+  * javascript code to the footer to call the custom jQuery function
 
-
+### Header
 ```
-  <!-- ############################### Begin: CiteIt Dependencies ##################################
+  <!-- ############################### Header Begin: CiteIt Dependencies ##################################
       - jQuery: manipulate Dom: 
       - query api.CiteIt.net
       - download JSON to hidden citeit_container div
@@ -55,10 +57,24 @@ The head of the HTML articles includes references to the code CiteIt adds to the
   <!-- 6) Main CiteIt Javascript Code: Download JSON & Create Popup windows and Expanding Arrows  -->
   <script src='https://pages.citeit.net/wp-content/plugins/CiteIt.net/js/versions/0.4/0.4.9-CiteIt-quote-context.js'> </script>
 
-  <!-- ############################### End: CiteIt.net Dependencies #######################################-->
+  <!-- ############################### Header End: CiteIt.net Dependencies #######################################-->
 ```
 
-These files are loaded from remote sources but the code files have also been included in this repository for convenience.
+### Footer
+
+<script>
+  // Call CiteIt.net plugin on all q-tags and blockquotes:
+  jQuery(document).ready(function(){
+
+      jQuery('q, blockquote').quoteContext();
+
+  });
+</script>
+
+
+These files are loaded from remote sources but copies of the code files have also been included in this repository for convenience.
+
+
 
 ## Quote Markup Syntax
 
@@ -85,8 +101,10 @@ To view the contextual citations:
   * upload the articles to a website you control.
   * generate the contextual JSON files by instructing the webservice to index your website.
   
-  
+
+### Webservice: Online 
 Right now the [https://pages.citeit.net/sample-code/|webservice] is alpha-status code and not optimized for performace.
 Start by calling the service for short articles like JFK, RGB, or Pride and Prejudice so that the request doesn't take too long.
 
+### Webservice: Run Locally for many citations
 (The Donald Trump page is too long for running on the public webservice but can be run if you setup the Python code on your own computer).
