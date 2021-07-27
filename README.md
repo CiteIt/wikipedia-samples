@@ -62,6 +62,7 @@ CiteIt-style contextual citations can be added to a website by adding
 
 ### Footer
 
+```
 <script>
   // Call CiteIt.net plugin on all q-tags and blockquotes:
   jQuery(document).ready(function(){
@@ -70,7 +71,7 @@ CiteIt-style contextual citations can be added to a website by adding
 
   });
 </script>
-
+```
 
 These files are loaded from remote sources but copies of the code files have also been included in this repository for convenience.
 
