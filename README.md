@@ -104,7 +104,8 @@ To view the contextual citations:
   
 
 ### Webservice: Online 
-Right now the [https://pages.citeit.net/sample-code/|webservice] is alpha-status code and not optimized for performace.
+Right now the [https://pages.citeit.net/sample-code/](webservice) is alpha-status code and not optimized for performace.
+
 Start by calling the service for short articles like JFK, RGB, or Pride and Prejudice so that the request doesn't take too long.
 
 ### Webservice: Run Locally for many citations
