@@ -1,5 +1,14 @@
 # Wikipedia-samples
 
+## About
+This repo is a useful as a sandbox for testing CiteIt's implementation on Wikipedia.
+
+Upload this to a public website and index the page using the webservice.
+  * https://api.citeit.net/?url=https://your-wiki-sandboxsite.com/hamlet
+
+  (This will generate the json files containing the contextual data)
+
+
 ## 8 Sample Wikipedia articles used as a demo of CiteIt functionality:
   * Hamlet
   * Hillary Clinton
